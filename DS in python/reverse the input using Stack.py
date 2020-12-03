@@ -34,3 +34,4 @@ for i in range(len(word)):
 print('The new word is ', end='')
 for i in new_word:
     print(i,end='')
+#New line is update in the code
